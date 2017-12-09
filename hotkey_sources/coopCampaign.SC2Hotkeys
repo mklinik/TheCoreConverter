@@ -1,4 +1,3 @@
-[Commands]
 250mmStrikeCannons/Thor=
 250mmStrikeCannons/ThorWreckageSwann=
 330mmBarrageCannons/Thor=
@@ -578,6 +577,7 @@ ImmortalHallucination/Nexus=
 ImmortalOverload/FenixTaldarinImmortal=
 ImmortalOverload/Immortal=
 ImmortalOverload/ImmortalAiur=
+ImmortalShakurasShadowCannon/Immortal=
 ImmortalShakurasShadowCannon/ImmortalAiur=
 ImmortalShakurasShadowCannon/ImmortalShakuras=
 ImmortalityProtocol/Thor=
@@ -1146,6 +1146,7 @@ ResearchStructureBarrier/Forge=
 ResearchStukovInfestedBansheeBurrowRegeneration/SIStarportTechLab=
 ResearchStukovInfestedBansheeInfestedLife/SIStarportTechLab=
 ResearchSuperScience/StarportTechLab=
+ResearchSuperScience/StarportTechReactor=
 ResearchTechReactor/ScienceFacility=
 ResearchTempestDisintegration/FleetBeacon=
 ResearchTimeWarp/FleetBeacon=
